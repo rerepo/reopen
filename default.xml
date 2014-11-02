@@ -14,6 +14,8 @@
   <project name="reopen_example_kernelc" path="example/kernelc"/>
   <project name="reopen_generate_datamodel" path="generate/datamodel"/>
   <project name="reopen_generate_genc" path="generate/genc"/>
+  <project name="reopen_prebuilts_arm-linux-androideabi-4.5" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.5"/>
   <project name="reopen_prebuilts_builtc" path="prebuilts/builtc"/>
+  <project name="reopen_prebuilts_tools" path="prebuilts/tools"/>
   <project name="reopen_premake_makec" path="premake/makec"/>
 </manifest>
