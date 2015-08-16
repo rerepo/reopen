@@ -9,5 +9,6 @@
   </project>
   <project name="reopen_example_helloc" path="example/helloc"/>
   <project name="reopen_example_helloclib" path="example/helloclib"/>
+  <project name="reopen_prebuilts_builtc" path="prebuilts/builtc"/>
   <project name="reopen_premake_makec" path="premake/makec"/>
 </manifest>
